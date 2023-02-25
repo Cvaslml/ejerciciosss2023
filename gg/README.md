@@ -1,0 +1,1 @@
+Crea un programa en Java que lea 20 numeros enteros y que e imprima su par y su impar.
