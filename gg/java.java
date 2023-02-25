@@ -21,7 +21,7 @@ public class java {
             }
         }
 
-        JOptionPane.showMessageDialog(null, "El número cp es: " + cp);
-        JOptionPane.showMessageDialog(null, "El número ci es: " + ci);
+        JOptionPane.showMessageDialog(null, "El número total de pares es: " + cp);
+        JOptionPane.showMessageDialog(null, "El número total de impares es: " + ci);
     }
 }
