@@ -1,5 +1,3 @@
-package ggg;
-
 import javax.swing.JOptionPane;
 
 public class Calorias
